@@ -1,0 +1,405 @@
+{
+ "SVC": [
+  {
+   "f": "travel-management-consulting.html",
+   "n": "Travel management consulting",
+   "blurb": "Strategic travel consultancy for individuals, corporates and organisations, from booking to board.",
+   "title": "Travel Management Consulting in Nigeria | Flights and Corporate Travel | Capanum",
+   "desc": "Domestic and international flight bookings, itinerary management, corporate travel programmes, group travel and travel insurance from Capanum in Abuja and Lagos.",
+   "h1": "Travel management, from booking to board",
+   "intro": "Capanum plans and manages travel for individuals, companies and organisations. Flights, itineraries, corporate programmes and group movements are handled by one team, with clear pricing and verified receipts.",
+   "inc": [
+    "Domestic and international flight bookings",
+    "Travel itinerary planning and management",
+    "Corporate travel programmes",
+    "Group travel coordination",
+    "Travel insurance services"
+   ],
+   "who": "Individuals, corporate travel desks, government agencies and NGOs.",
+   "need": "Names as printed on passports, route, dates and a budget range.",
+   "steps": [
+    "Send your route, dates and passenger names.",
+    "We verify the details and source the best fares or routes.",
+    "You confirm, and we book and send your itinerary."
+   ],
+   "faq": [
+    [
+     "Can you manage travel for a whole company?",
+     "Yes. We run corporate travel programmes, so bookings, changes and receipts go through one contact."
+    ],
+    [
+     "Do you handle group travel?",
+     "Yes. We coordinate groups on one itinerary so flights, hotels and transfers line up."
+    ]
+   ]
+  },
+  {
+   "f": "immigration-evisa-support.html",
+   "n": "Immigration and eVisa support",
+   "blurb": "End-to-end immigration advisory and eVisa processing for expatriates, executives and travellers.",
+   "title": "Immigration and eVisa Support in Abuja, Nigeria | e-CERPAC and Work Permits | Capanum",
+   "desc": "Immigration advisory, eVisa processing, e-CERPAC for expatriates, work and resident permits and ECOWAS travel documents from Capanum in Abuja.",
+   "h1": "Immigration and eVisa paperwork that holds together",
+   "intro": "Visa and permit applications fail on small inconsistencies. Capanum advises on immigration requirements, prepares and checks your documents, and processes applications for expatriates, executives and travellers. Decisions rest with the issuing authority, and we never promise an outcome.",
+   "inc": [
+    "Immigration advisory and compliance",
+    "eVisa application and processing",
+    "e-CERPAC processing for expatriates",
+    "Work and resident permit applications",
+    "ECOWAS travel documentation"
+   ],
+   "who": "Expatriates, executives, companies bringing in staff, and travellers.",
+   "need": "Passport data page, purpose of travel or employment details, and supporting letters.",
+   "steps": [
+    "Tell us your nationality, destination and purpose.",
+    "We list the requirements and check your documents.",
+    "We process the application and follow it to a decision."
+   ],
+   "faq": [
+    [
+     "What is e-CERPAC?",
+     "It is the residence permit and aliens card for eligible expatriates living in Nigeria. We prepare the application and follow it up."
+    ],
+    [
+     "Can you guarantee approval?",
+     "No. Only the issuing authority decides. We make sure your application is complete, consistent and correctly submitted."
+    ]
+   ]
+  },
+  {
+   "f": "airport-protocol-support.html",
+   "n": "Airport protocol support",
+   "blurb": "Smooth, dignified airport experiences managed by our trained protocol team, from touchdown to hotel.",
+   "title": "Airport Protocol and VIP Meet-and-Greet in Abuja and Lagos | Capanum",
+   "desc": "Airport protocol, VIP and executive meet-and-greet, check-in and luggage assistance, and airport-to-hotel transfers coordinated by Capanum in Nigeria.",
+   "h1": "Airport protocol from touchdown to hotel",
+   "intro": "Arrivals in Nigeria are easier when someone is waiting for you. Our trained protocol team meets you, supports you through official airport procedures and hands you over to your vehicle and hotel.",
+   "inc": [
+    "Meet and greet services",
+    "VIP and executive fast-track processing",
+    "Check-in and luggage assistance",
+    "Immigration and customs clearance support",
+    "Airport-to-hotel transfer coordination"
+   ],
+   "who": "Executives, dignitaries, delegations, first-time visitors and families.",
+   "need": "Flight number, arrival time, number of guests and bags, and hotel or destination.",
+   "steps": [
+    "Send the flight details and guest list.",
+    "We assign the protocol team and confirm the meeting point.",
+    "We meet, assist and hand over to your transfer."
+   ],
+   "faq": [
+    [
+     "Which airports do you serve?",
+     "Tell us the airport and date and we confirm cover before you commit."
+    ],
+    [
+     "Can you arrange the hotel transfer too?",
+     "Yes. Airport-to-hotel transfers are coordinated as part of the service."
+    ]
+   ]
+  },
+  {
+   "f": "executive-car-hire.html",
+   "n": "Executive car hire",
+   "blurb": "Premium chauffeur-driven vehicles for executives, dignitaries and discerning travellers.",
+   "title": "Executive Car Hire with Chauffeur in Abuja and Lagos | Capanum",
+   "desc": "Chauffeur-driven executive vehicles for airport transfers, corporate events and conferences, by the hour, day or long term, from Capanum in Nigeria.",
+   "h1": "Executive cars with discreet, professional drivers",
+   "intro": "Arriving well matters. Capanum supplies chauffeur-driven executive vehicles for individuals, companies and delegations, timed to your flights and schedule.",
+   "inc": [
+    "Chauffeur-driven executive vehicles",
+    "Airport pickup and drop-off",
+    "Corporate event and conference transfers",
+    "Hourly, daily and long-term hire",
+    "Discreet, professional drivers"
+   ],
+   "who": "Executives, dignitaries, event organisers and visiting guests.",
+   "need": "Pick-up points, dates and times, number of guests, and the vehicle type you prefer.",
+   "steps": [
+    "Tell us where, when and how many.",
+    "We confirm the vehicle and driver.",
+    "The driver meets you on time and stays on your schedule."
+   ],
+   "faq": [
+    [
+     "Can I hire by the hour?",
+     "Yes. We offer hourly, daily and long-term hire."
+    ],
+    [
+     "Can you meet me at the airport?",
+     "Yes, and we can pair the car with airport protocol support."
+    ]
+   ]
+  },
+  {
+   "f": "fleet-management.html",
+   "n": "Fleet management",
+   "blurb": "Full-service fleet solutions for organisations that need reliable, managed corporate mobility.",
+   "title": "Fleet Management and Vehicle Rental for Organisations in Nigeria | Capanum",
+   "desc": "Short and long-term vehicle rentals, fleet procurement and maintenance, driver outsourcing and training, real-time tracking and performance reporting from Capanum.",
+   "h1": "Fleet management you can see and report on",
+   "intro": "Running vehicles is not your core business. Capanum manages corporate fleets end to end, from sourcing and maintenance to drivers, dispatch and reporting.",
+   "inc": [
+    "Short and long-term vehicle rentals",
+    "Fleet procurement and maintenance",
+    "Driver outsourcing and training",
+    "Real-time tracking and dispatch",
+    "Fleet performance reporting"
+   ],
+   "who": "Companies, project offices, government agencies and NGOs.",
+   "need": "Number and type of vehicles, duration, locations and reporting needs.",
+   "steps": [
+    "Share your mobility needs and locations.",
+    "We propose the fleet, drivers and reporting.",
+    "We run it and report on performance."
+   ],
+   "faq": [
+    [
+     "Can you supply drivers only?",
+     "Yes. Driver outsourcing and training is a separate service."
+    ],
+    [
+     "Do you provide fleet reports?",
+     "Yes. Fleet performance reporting is part of the service."
+    ]
+   ]
+  },
+  {
+   "f": "shipping-courier-service.html",
+   "n": "Shipping and courier service",
+   "blurb": "Reliable movement of goods across borders with customs and freight support.",
+   "title": "Shipping, Courier and Cargo Clearance in Nigeria | Freight Forwarding | Capanum",
+   "desc": "Domestic and international courier, customs documentation and clearance, air, land and sea freight forwarding, cargo tracking and warehousing from Capanum.",
+   "h1": "Shipping and cargo clearance, tracked to delivery",
+   "intro": "Goods stall when documents are incomplete or nobody is chasing the agent. Capanum handles customs paperwork, freight and delivery, and keeps you informed until your goods are in hand.",
+   "inc": [
+    "Domestic and international courier",
+    "Customs documentation and clearance",
+    "Freight forwarding by air, land and sea",
+    "Cargo tracking and delivery",
+    "Warehousing and distribution logistics"
+   ],
+   "who": "Importers, exporters, businesses, NGOs and individuals.",
+   "need": "Shipping documents, description and value of the goods, origin and destination.",
+   "steps": [
+    "Send the shipment details and documents.",
+    "We prepare customs paperwork and choose the route.",
+    "We track the consignment and confirm delivery."
+   ],
+   "faq": [
+    [
+     "Do you ship by air, land and sea?",
+     "Yes. We forward freight by air, land and sea."
+    ],
+    [
+     "Can you store goods before delivery?",
+     "Yes. Warehousing and distribution are part of the service."
+    ]
+   ]
+  },
+  {
+   "f": "general-procurement-supplies.html",
+   "n": "General procurement and supplies",
+   "blurb": "Sourcing, import and distribution of quality equipment and materials for public and private institutions.",
+   "title": "General Procurement and Supplies in Nigeria | Equipment and Materials | Capanum",
+   "desc": "Sourcing, import/export and distribution of office, ICT, building, industrial, medical and agricultural supplies for public and private institutions, by Capanum.",
+   "h1": "Procurement and supplies for institutions",
+   "intro": "Capanum sources, imports and distributes quality equipment and materials for public and private institutions, with the same documentation and transparency as the rest of our work.",
+   "inc": [
+    "Office furniture, ICT equipment and accessories",
+    "Electrical, plumbing and building materials",
+    "Industrial tools and safety equipment",
+    "Medical and laboratory equipment procurement",
+    "Agricultural inputs, food products and beverages"
+   ],
+   "who": "Government agencies, companies, hospitals, schools and NGOs.",
+   "need": "Item list or specification, quantities, delivery location and timeline.",
+   "steps": [
+    "Send your item list and quantities.",
+    "We source and quote clearly, with no hidden fees.",
+    "We deliver and provide verified invoices."
+   ],
+   "faq": [
+    [
+     "Do you import as well as source locally?",
+     "Yes. We handle sourcing, import/export and distribution."
+    ],
+    [
+     "Will I get a proper invoice?",
+     "Yes. We provide verified receipts and invoices."
+    ]
+   ]
+  }
+ ],
+ "AUD": [
+  {
+   "f": "corporate-government-ngo.html",
+   "n": "Corporate, government and NGO solutions",
+   "blurb": "Travel, logistics and events for organisations, with clean records.",
+   "title": "Travel and Logistics for Corporate, Government and NGO Clients in Nigeria | Capanum",
+   "desc": "Corporate travel programmes, government agency mobility and NGO field deployments with clear pricing and verified records, from Capanum in Abuja.",
+   "h1": "Mobility for organisations that answer to auditors",
+   "intro": "From strategic corporate retreats to international NGO field deployments, Capanum manages the travel, ground transport, documentation and shipping behind them, with clear pricing and verified receipts.",
+   "inc": [
+    "Corporate travel programmes and group movements",
+    "Executive ground transport and fleet management",
+    "Visas, permits and expatriate documentation",
+    "Shipping, customs clearance and procurement",
+    "Hotel and event coordination",
+    "Verified receipts and invoices for finance and donor reporting"
+   ],
+   "faq": [
+    [
+     "Do you serve government agencies?",
+     "Yes. We serve individuals, corporations, government agencies and NGOs."
+    ],
+    [
+     "Can you provide records for donor reporting?",
+     "Yes. We provide verified receipts and invoices for every transaction."
+    ]
+   ]
+  }
+ ],
+ "SERVE": [
+  {
+   "n": "Individuals",
+   "blurb": "Flights, visas and airport support for personal and family travel.",
+   "to": "/services"
+  },
+  {
+   "n": "Corporations",
+   "blurb": "Travel programmes, executive cars, fleet and logistics.",
+   "to": "/corporate-government-ngo"
+  },
+  {
+   "n": "Government agencies",
+   "blurb": "Mobility, procurement and events for public institutions.",
+   "to": "/corporate-government-ngo"
+  },
+  {
+   "n": "NGOs",
+   "blurb": "Field deployments and supply movement with clean records.",
+   "to": "/corporate-government-ngo"
+  }
+ ],
+ "FAQ": [
+  [
+   "Is Capanum a registered company?",
+   "Yes. Capanum Strategic Solution Associates Limited is registered with the Corporate Affairs Commission, RC 9240215."
+  ],
+  [
+   "What services do you offer?",
+   "Travel management, immigration and eVisa support, airport protocol, executive car hire, fleet management, shipping and courier, and general procurement and supplies."
+  ],
+  [
+   "Who do you work with?",
+   "Individuals, corporations, government agencies and NGOs, across Africa and beyond."
+  ],
+  [
+   "How quickly do you respond?",
+   "We respond to all enquiries within 24 hours or less."
+  ],
+  [
+   "Are there hidden fees?",
+   "No. We give clear quotes and always provide verified receipts and invoices."
+  ],
+  [
+   "Where are you based?",
+   "Our head office is at Office 012, Grand Ibro Hotel, Zone 5, Abuja, FCT. We also have a branch office in Lagos State."
+  ],
+  [
+   "Can you guarantee a visa?",
+   "No. Only the issuing authority decides. We make sure your application is complete, consistent and correctly submitted."
+  ]
+ ],
+ "TEST": [
+  [
+   "Maintaining a professional relationship for over four years, Capanum Associates has provided prompt, cost-effective ticketing and premium hotel reservations. Their services are rendered seamlessly, contributing significantly to the smooth execution of our programs.",
+   "MD/CEO, Graceworth Nigeria Limited"
+  ],
+  [
+   "Capanum Associates delivers exceptional, comprehensive travel management, prompt visa processing, and detailed event planning. What sets them apart is their dedication to client-focused solutions and rapid response times under tight deadlines.",
+   "Principal Partner, Kunron Consults"
+  ],
+  [
+   "Capanum Associates consistently demonstrates a high level of competence, discretion, and reliability. Their team ensures that all aspects of flight bookings, corporate event coordination, and executive ground transportation run smoothly.",
+   "Founder and Principal Partner, Lexy Consulting Associates"
+  ],
+  [
+   "Capanum Associates has offered exceptional logistical and protocol support across multiple high-level regional and international engagements. They manage complex travel and hospitality logistics with precision, punctuality, and a deeply client-focused approach.",
+   "Senior Manager, Procurement at FSD Africa"
+  ]
+ ],
+ "PILLARS": [
+  [
+   "Integrity",
+   "We uphold transparency and honesty in every transaction."
+  ],
+  [
+   "Excellence",
+   "We deliver with attention to quality, detail, and professionalism."
+  ],
+  [
+   "Innovation",
+   "We leverage technology and creative thinking to drive efficiency."
+  ],
+  [
+   "Customer commitment",
+   "We prioritize our clients' needs and total satisfaction."
+  ],
+  [
+   "Reliability",
+   "We consistently deliver on our promises, without compromise."
+  ]
+ ],
+ "ETIQ": [
+  [
+   "Prompt communication",
+   "We respond to client inquiries, emails and calls within 24 hours or less, and keep clients updated on bookings, flight changes, visa processes and event logistics."
+  ],
+  [
+   "Confidentiality and discretion",
+   "Passports, visas and itineraries are handled with the highest confidentiality, especially for corporate and high-profile travellers."
+  ],
+  [
+   "Transparency and integrity",
+   "We explain pricing, service charges and any change in cost, avoid hidden fees and always provide verified receipts and invoices."
+  ],
+  [
+   "Problem-solving mindset",
+   "When there are delays or cancellations, we focus on immediate solutions, offer alternatives and reassure the client promptly."
+  ],
+  [
+   "Follow-up and feedback",
+   "After a trip or event we check in with clients and invite feedback to improve future service."
+  ]
+ ],
+ "NAME": "Capanum Strategic Solution Associates Limited",
+ "RC": "9240215",
+ "EMAIL": "info@capanumassociates.com",
+ "PARTNER": "Ajiteru M. Abolore",
+ "PARTNER_EMAIL": "mp@capanumassociates.com",
+ "PHONES": [
+  "+234 809 877 1010",
+  "+234 803 306 8569"
+ ],
+ "WHATSAPP": "2348098771010",
+ "ADDRESS": "Office 012, Grand Ibro Hotel, Zone 5, FCT, Abuja, Nigeria",
+ "MISSION": "To offer reliable, timely, and cost-effective travel, logistics, and event services that empower clients to move, connect, and grow confidently across borders.",
+ "VISION": "To become Africa's leading provider of professional travel and logistics solutions by consistently delivering excellence, innovation, and customer-focused services.",
+ "PROCESS": [
+  [
+   "Share",
+   "Send a quick message via WhatsApp or our contact form: your dates, destination, shipment details or event brief. We take it from there."
+  ],
+  [
+   "Advise",
+   "Our consultants verify your documents, source optimal fares or routes, and walk you through every requirement with total transparency."
+  ],
+  [
+   "Deliver",
+   "Receive your bookings or tracking. Our support continues until you have safely arrived or your goods are in hand."
+  ]
+ ]
+}
