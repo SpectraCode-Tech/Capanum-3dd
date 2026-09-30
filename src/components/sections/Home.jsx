@@ -42,7 +42,6 @@ export default function Home() {
   return (
     <main ref={root}>
       <section className="hero">
-        <p className="micro">CAC registered / RC {data.RC} / Abuja and Lagos</p>
         <h1 className="mega"><Line>Travel,</Line><Line>immigration</Line><Line>&amp; logistics.</Line></h1>
         <p className="lead">Move without limits. Arrive with confidence. One team for travel, immigration, logistics and events, serving individuals, corporations, government agencies and NGOs.</p>
         <span className="cue micro">Scroll to enter</span>

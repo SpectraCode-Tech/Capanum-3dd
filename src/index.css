@@ -106,4 +106,5 @@ pre{white-space:pre-wrap;font:inherit;font-size:.95rem;background:#f3eaef;paddin
 .vgrid figure{background:rgba(251,248,246,.88);border-top:2px solid var(--plum);padding-top:1.2rem}
 .vgrid blockquote{font:500 clamp(1.05rem,1.5vw,1.3rem)/1.5 var(--d);letter-spacing:-.01em}
 .vgrid figcaption{margin-top:.8rem;font-size:.85rem;color:var(--crimson);font-weight:600}
-@media(max-width:800px){.vgrid{grid-template-columns:1fr}}
+@media(max-width:800px){.vgrid{grid-template-columns:1fr}
+.hero{padding:0 4vw 9vh;gap:1.4rem}}
