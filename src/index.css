@@ -35,7 +35,7 @@ body.ready .line>span{transform:none}body.ready .line:nth-child(2)>span{transiti
 .prog{position:fixed;right:14px;top:50%;translate:0 -50%;width:2px;height:80px;background:var(--line);z-index:50}
 .prog i{display:block;height:100%;background:var(--crimson);transform-origin:top;transform:scaleY(0)}
 /* hero */
-.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4vw 9vh;gap:1.4rem}
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:flex-end;padding:5vh 4vw 9vh;gap:1.4rem}
 .hero .mega{margin-left:-.05em}.cue{margin-top:1rem}
 /* descent */
 .descent{height:100vh;position:relative;overflow:hidden}
